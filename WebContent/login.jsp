@@ -8,7 +8,6 @@
 </head>
 <body>
 <label>Testing</label>
-<label>Testing2</label>
 
 </body>
 </html>
