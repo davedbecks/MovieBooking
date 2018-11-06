@@ -9,6 +9,8 @@
 <body>
 <label>Testing3434</label>
     <p>dasdasd</p>
-    <input type="text" >User Name</input>
+    <input type="text" />User Name
+    <input type="password"> Password
+    <p> Movie Booking log in </p>
 </body>
 </html>
