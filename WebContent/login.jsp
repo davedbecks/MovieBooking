@@ -12,5 +12,6 @@
     <input type="text" />User Name
     <input type="password"> Password
     <p> Movie Booking log in </p>
+    <p> Movie Booking log in </p>
 </body>
 </html>
