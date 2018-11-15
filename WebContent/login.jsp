@@ -7,10 +7,12 @@
 <title>Log In</title>
 </head>
 <body>
+<form action="/adminController" method="get">
 <label>Testing3434</label>
-    <p>dasdasd</p>
-    <input type="text" />User Name
-    <input type="password"> Password
-    <p> Movie Booking log in </p>
+<input type="hidden" name="function" value="getSchedule">
+    <input type="submit" value ="Submit">
+    
+    
+    </form>
 </body>
 </html>

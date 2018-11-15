@@ -48,6 +48,11 @@ public class Movie {
 	public void setRunningTime(int runningTime) {
 		this.runningTime = runningTime;
 	}
+	@Override
+	public String toString() {
+		return "Movie [movieId=" + movieId + ", movieTitle=" + movieTitle + ", description=" + description
+				+ ", posterURL=" + posterURL + ", runningTime=" + runningTime + ", showList=" + showList + "]";
+	}
 	
 	
 }
